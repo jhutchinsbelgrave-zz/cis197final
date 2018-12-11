@@ -1,0 +1,7 @@
+{
+  "accessToken": "xxx Found after making FB app xx",
+  "verifyToken": "xxxMake This Upxxx",
+  "appSecret": "xxxx Found after making FB app xxxx",
+  "botPort": 8007,
+  "botTunnelSubDomain": "xxxCan make one upxx"
+}
